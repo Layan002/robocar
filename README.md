@@ -1,4 +1,5 @@
 # Photos of the project: 
+All the project is design by me. nothing is paid for any expert to help. Even the application on android which is not my feild I researched for a way to create it and succeeded. 
 
 ## Assembly on SolidWorks
 ![image](https://github.com/user-attachments/assets/70f8b83a-d069-4fcc-81b0-c0703d7fbdd0)
@@ -24,7 +25,10 @@ Here I've tested the car in my college between my colleges
 
 # Parts used:
 ## Sofrtware 
+### SolidWorks
 To design the mechanical part such as Chassis and the pyramid I used SolidWords, which is a CAD for best experience for industrial designs. 
+### Arduino IDE
+To write the code for all the components connected to the Microcontroller of the Arduino Uno. They are all integrated by my skills in programming. I did not use any open source to write my code, just depending on my knowledge. Finally achieving the goal.
 
 ## Hardware
 - Microcontroller (Arduino Uno)
@@ -36,6 +40,17 @@ To design the mechanical part such as Chassis and the pyramid I used SolidWords,
 - 2 Wheels
 - 2 lithium Bettaries (4V for each one)
 - bettary holder
+- 9 Volts Bettary
+- Male-male wires
+- male-female wires
+
+## Mechanical
+- PLA white filament
+- Color spray (Yellow and Green)
+- 3D printer (I have AnkerMake M5 & M5C)
+> [!NOTE]
+> Some people or companies offer 3D priting servicis you do not to have printer if you think you do not need to use them.
+
 
 >[!NOTE]
 > For privecy I did not upload the Arduino IDE code or STL files og the robocat to protect my working from stealing. 

@@ -1,29 +1,38 @@
+# About
+This project is a big one and considered as a graduation project, I completed it through two weeks in the summer of 2024 which is the duration after finishing the sophomore year (3rd year in university and 2d year in collage). it is a RoboCar that detect object and chang its direction. many components are integrated wether softwere or hardware. 
+
+
 # Photos of the project: 
 All the project is design by me. nothing is paid for any expert to help. Even the application on android which is not my feild I researched for a way to create it and succeeded. 
 
 ## Assembly on SolidWorks
-![image](https://github.com/user-attachments/assets/70f8b83a-d069-4fcc-81b0-c0703d7fbdd0)
+
+<img src="https://github.com/user-attachments/assets/70f8b83a-d069-4fcc-81b0-c0703d7fbdd0" alt="Description" width="600">
 
 
 ## App on Android
+<img src="https://github.com/user-attachments/assets/1f24cfb2-f0c3-4e62-9d7d-61fb97f33c62" width="600">
 
 
 
 ## Photo in real life 
-![photo_2024-10-13_21-08-02](https://github.com/user-attachments/assets/46f681d7-ae8e-48e8-87a2-502369331b32)
+<img src="https://github.com/user-attachments/assets/46f681d7-ae8e-48e8-87a2-502369331b32" alt="Description" width="600">
 
 
 
 # Demo
-Here is a video to take you with me with my journy in building 'The RoboCar" a speeded video of my designing for mechanichal and electronics part from scratch.<br>
+Here is a video to take you with my journy in building 'The RoboCar" a speeded video of my designing for mechanichal and electronics part from scratch.<br>
 [Designing & Assembling](https://x.com/englayan22/status/1828775173195219093/video/1)
 
-Here I've tested the car in my college between my colleges 
+
+Here I've tested the car in my college between my colleagues 
 [RoboCar testing](https://x.com/englayan22/status/1828775173195219093/video/2)
 
 
 
+
 # Parts used:
+ 
 ## Sofrtware 
 ### SolidWorks
 To design the mechanical part such as Chassis and the pyramid I used SolidWords, which is a CAD for best experience for industrial designs. 

@@ -7,16 +7,16 @@ All the project is design by me. nothing is paid for any expert to help. Even th
 
 ## Assembly on SolidWorks
 
-<img src="https://github.com/user-attachments/assets/70f8b83a-d069-4fcc-81b0-c0703d7fbdd0" alt="Description" width="600">
+<img src="https://github.com/user-attachments/assets/70f8b83a-d069-4fcc-81b0-c0703d7fbdd0" alt="Description" width="400">
 
 
 ## App on Android
-<img src="https://github.com/user-attachments/assets/1f24cfb2-f0c3-4e62-9d7d-61fb97f33c62" width="600">
+<img src="https://github.com/user-attachments/assets/1f24cfb2-f0c3-4e62-9d7d-61fb97f33c62" width="200">
 
 
 
 ## Photo in real life 
-<img src="https://github.com/user-attachments/assets/46f681d7-ae8e-48e8-87a2-502369331b32" alt="Description" width="600">
+<img src="https://github.com/user-attachments/assets/46f681d7-ae8e-48e8-87a2-502369331b32" alt="Description" width="400">
 
 
 

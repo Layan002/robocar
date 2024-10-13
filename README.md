@@ -58,8 +58,8 @@ To write the code for all the components connected to the Microcontroller of the
 - Color spray (Yellow and Green)
 - 3D printer (I have AnkerMake M5 & M5C)
 > [!NOTE]
-> Some people or companies offer 3D priting servicis you do not to have printer if you think you do not need to use them.
+> Some people or companies offer 3D printing services you do not have to have a printer if you think you do not need to use them.
 
 
 >[!NOTE]
-> For privecy I did not upload the Arduino IDE code or STL files og the robocat to protect my working from stealing. 
+> For privecy I did not upload the Arduino IDE code or STL files of the robocat to protect my working from stealing. 

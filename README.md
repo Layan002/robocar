@@ -62,4 +62,4 @@ To write the code for all the components connected to the Microcontroller of the
 
 
 >[!NOTE]
-> For privecy I did not upload the Arduino IDE code or STL files of the robocat to protect my working from stealing. 
+> To maintain privacy and protect my work, I have chosen not to upload the Arduino IDE code or STL files for the Robocar project.

@@ -39,6 +39,11 @@ To design the mechanical part such as Chassis and the pyramid I used SolidWords,
 ### Arduino IDE
 To write the code for all the components connected to the Microcontroller of the Arduino Uno. They are all integrated by my skills in programming. I did not use any open source to write my code, just depending on my knowledge. Finally achieving the goal.
 
+### MIT app inventor 
+To create the app: <https://appinventor.mit.edu/>
+<img src="https://github.com/user-attachments/assets/aff148be-d1b9-462d-9d5e-706c4226132d" alt="Description" width="400">
+
+
 ## Hardware
 - Microcontroller (Arduino Uno)
 - Motor Driver (H-bridge with two outputs)
